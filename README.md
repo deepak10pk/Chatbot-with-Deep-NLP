@@ -7,6 +7,6 @@ Supported Python version
          - Python version used in this project: 3.5+
          
 # Libraries used
-Pandas 
-Numpy 
-TensorFlow 1.0.0
+* Pandas 
+* Numpy 
+* TensorFlow 1.0.0
