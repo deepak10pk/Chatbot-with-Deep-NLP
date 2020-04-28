@@ -10,3 +10,8 @@ Supported Python version
 * Pandas 
 * Numpy 
 * TensorFlow 1.0.0
+
+
+
+## Note:
+I have run  for small epochs as each epochs was taking longer time. Trying running for 100 epochs and result will be great.
